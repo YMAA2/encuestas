@@ -5,6 +5,7 @@
     if(isset($_GET["GENERAR"])){
         //echo ("url completada: ".$_GET["url"]);
     } 
+    echo "YERA";
 ?>
 <html>
     <form name="buscar" action="./index.php" method="GET">
